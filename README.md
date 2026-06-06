@@ -2,7 +2,12 @@
 
 A Task Management System built using HTML, CSS, and JavaScript that allows users to add, complete, and delete tasks. The application includes input validation, real-time notifications, and visual task tracking with strike-through effects.
 
+## Preview
+
+![Task Management System](screenshot.png)
+
 ## Features
+
 - Add Tasks
 - Delete Tasks
 - Mark Tasks as Complete
@@ -11,9 +16,11 @@ A Task Management System built using HTML, CSS, and JavaScript that allows users
 - Dynamic DOM Manipulation
 
 ## Technologies Used
+
 - HTML5
 - CSS3
 - JavaScript
 
 ## Author
+
 Kishmis Malhotra
